@@ -1,4 +1,4 @@
-html {touch-action: manipulation}
+html {touch-action: none}
 body { padding: 0; background: #000000; touch-action:none}
 #unity-container { position: absolute;}
 #unity-container.unity-desktop { left: 50%; top: 50%; transform: translate(-50%, -50%) }
